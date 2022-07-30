@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1016460917162",
+    "firebase_url": "https://home-rent-ab8cf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "home-rent-ab8cf",
+    "storage_bucket": "home-rent-ab8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016460917162:android:d058946144ee97c2bad3d3",
+        "android_client_info": {
+          "package_name": "com.example.property_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016460917162-6u3m55bnrr9eqd9sf6hvjlr3ts9jvudr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.property_app",
+            "certificate_hash": "436c11878f3aec79c7acb99acb6ee24fcb35c807"
+          }
+        },
+        {
+          "client_id": "1016460917162-t2dki60t1np83ugcmol6v9radi31gfjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.property_app",
+            "certificate_hash": "e44403034cea21ede30ab10745c730e205a5d5c8"
+          }
+        },
+        {
+          "client_id": "1016460917162-mee6fk4gr3hjlvo4n8qprbd1mne3jo12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPgrJ6vwv_0KvFrU9W7KviAPSUSOXaic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016460917162-mee6fk4gr3hjlvo4n8qprbd1mne3jo12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
